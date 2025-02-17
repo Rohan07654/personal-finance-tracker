@@ -29,7 +29,7 @@ Personal Finance Visualizer is a web application built using Next.js, React, and
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone
+   git clone https://github.com/Rohan07654/personal-finance-tracker.git
    ```
 2. Navigate to the project directory:
    ```sh
